@@ -48,3 +48,4 @@ Thumbs.db
 *.mov
 *.wmv
 
+yolov5_xgen/xgen_scripts.py
