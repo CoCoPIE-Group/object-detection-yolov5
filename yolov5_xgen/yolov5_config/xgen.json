@@ -36,7 +36,7 @@
     "eval_label_path": null,
     "learning_rate": 0.01,
     "common_train_epochs": 300,
-    "batch_size": 32,
+    "batch_size": 16,
     "root_path": "./Xgen/",
     "hyp": "./data/hyps/hyp.scratch-high.yaml",
     "data": "coco.yaml",
